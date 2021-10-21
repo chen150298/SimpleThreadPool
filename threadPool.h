@@ -1,4 +1,4 @@
-// Chen Larry 209192798
+// Chen Larry
 
 #ifndef __THREAD_POOL__
 #define __THREAD_POOL__
