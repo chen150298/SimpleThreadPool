@@ -1,4 +1,4 @@
-// Chen Larry 209192798
+// Chen Larry
 
 #include "threadPool.h"
 #include <stdio.h>
